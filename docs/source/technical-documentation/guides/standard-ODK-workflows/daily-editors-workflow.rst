@@ -10,7 +10,7 @@ DROID workflow
 This document only covers the first editing workflow, but more will be added in the future
 
 **Local editing workflow**
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 Workflow requirements:
 
 - git
@@ -118,5 +118,6 @@ This step seems daunting to some hopefully under-resourced ontologies, but we re
 
 When the QC is green and the reviews are in (approvals), it is time to merge the pull request. After the pull request is merged, remember to delete the branch as well (this option will show up as a big button right after you have merged the pull request). If you have not done so, close all the associated tickets fixed by the pull request.
 
-10. Changelog (Optional)
+**10. Changelog (Optional)**
+
 It is sometimes difficult to keep track of changes made to an ontology. Some ontology teams opt to document changes in a changelog (simply a text file in your repository) so that when release day comes, you know everything you have changed. This is advisable at least for major changes (such as a new release system, a new pattern or template etc.).
