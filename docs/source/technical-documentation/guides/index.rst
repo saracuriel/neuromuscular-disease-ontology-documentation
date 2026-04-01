@@ -7,4 +7,4 @@ How-to Guides
    :caption: Contents
   
    standard-ODK-workflows/index.rst
-   contribution/index.rst
+   Contribution <contribution/index>
