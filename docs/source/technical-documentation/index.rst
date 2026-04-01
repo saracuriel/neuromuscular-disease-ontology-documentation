@@ -4,6 +4,6 @@ You can find descriptions of the standard ontology engineering workflows `here <
    :maxdepth: 1
    :caption: Contents
 
-   citation.rst
+   citation
    guides/index
   
