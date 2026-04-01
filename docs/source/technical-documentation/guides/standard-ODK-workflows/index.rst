@@ -2,11 +2,9 @@
 Default ODK Workflows
 =====================
 
-Overview
-
 .. toctree::
    :maxdepth: 1
-   :caption: Contents
+   :caption: Overview
 
    daily-editors-workflow
    release-workflow
@@ -15,3 +13,11 @@ Overview
    imports-management
    managing-the-documentation
    managing-your-automated-testing
+
+.. toctree::
+   :hidden:
+
+   continuous-integration
+   your-ODK-repository-overview
+
+  
