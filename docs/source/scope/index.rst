@@ -95,7 +95,7 @@ List table (cleaner and easier to maintain):
 Images
 ------
 
-.. image:: ./captura.png
+.. image:: ./som.png
    :alt: Alternative text
    :width: 400px
 
