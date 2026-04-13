@@ -99,7 +99,7 @@ List table (cleaner and easier to maintain):
 Images
 ------
 
-.. image:: https://github.com/saracuriel/neuromuscular-disease-ontology-documentation/blob/rtd-guide/docs/source/_static/image.png
+.. image:: ./captura.png
    :alt: Alternative text
    :width: 400px
 
