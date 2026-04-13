@@ -14,7 +14,6 @@ Default ODK Workflows
    managing-the-documentation
    managing-your-automated-testing
 
-.. toctree::
    :hidden:
 
    continuous-integration
