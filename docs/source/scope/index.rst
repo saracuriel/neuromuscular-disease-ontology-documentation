@@ -42,13 +42,8 @@ Term 2
 Links
 -----
 
-External link:
-
 `Link text <https://example.com>`_
 
-Internal link (to another document):
-
-:doc:`file_name`
 
 Code
 ----
