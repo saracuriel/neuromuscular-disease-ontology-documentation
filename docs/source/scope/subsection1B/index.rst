@@ -1,2 +1,2 @@
-Subection 1
+Subsection 1
 ================
