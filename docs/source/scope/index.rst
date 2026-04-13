@@ -5,5 +5,5 @@ Text text text text
 .. toctree::
    :maxdepth: 1
 
-   subsection1A/index
+   Alternative title for subsection 1<subsection1A/index>
    subsection1B/index
