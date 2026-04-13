@@ -13,9 +13,9 @@ Subsection level 2
 Basic formatting
 ----------------
 
-This is an example of **bold text** and *italic text*.
+**bold text** 
+*italic text*
 
-You can also combine them: ***bold and italic***.
 
 Lists
 -----
@@ -52,9 +52,7 @@ Internal link (to another document):
 Code
 ----
 
-Inline code example: ``code``
-
-Code block:
+``code``
 
 .. code-block:: python
 
@@ -128,8 +126,4 @@ Admonition (custom box):
 
    This is a custom admonition box.
 
-Contents (local table of contents):
 
-.. contents::
-   :local:
-   :depth: 2
