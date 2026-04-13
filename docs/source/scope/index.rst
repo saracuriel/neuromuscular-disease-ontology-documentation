@@ -14,6 +14,7 @@ Basic formatting
 ----------------
 
 **bold text** 
+
 *italic text*
 
 
