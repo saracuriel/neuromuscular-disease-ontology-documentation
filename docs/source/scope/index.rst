@@ -99,7 +99,7 @@ List table (cleaner and easier to maintain):
 Images
 ------
 
-.. image:: _static/Captura de pantalla 2024-02-01 151049.png
+.. image:: docs/source/_static/Captura de pantalla 2024-02-01 151049.png
    :alt: Alternative text
    :width: 400px
 
